@@ -1,8 +1,8 @@
 # BIBLIOGRAFIA CONSULTADA:
 
-Predicate delegate in C#. (n.d.). Www.tutorialsteacher.com. Retrieved April 7, 2024, from https://www.tutorialsteacher.com/csharp/csharp-predicate
-dotnet-bot. (n.d.). Enumerable.OrderBy Method (System.Linq). Learn.microsoft.com. Retrieved April 7, 2024, from https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.orderby?view=net-8.0
-dotnet-bot. (n.d.). XmlReader Class (System.Xml). Learn.microsoft.com. https://learn.microsoft.com/en-us/dotnet/api/system.xml.xmlreader?view=net-8.0
+### Predicate delegate in C#. (n.d.). Www.tutorialsteacher.com. Retrieved April 7, 2024, from https://www.tutorialsteacher.com/csharp/csharp-predicate
+### dotnet-bot. (n.d.). Enumerable.OrderBy Method (System.Linq). Learn.microsoft.com. Retrieved April 7, 2024, from https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.orderby?view=net-8.0
+### dotnet-bot. (n.d.). XmlReader Class (System.Xml). Learn.microsoft.com. https://learn.microsoft.com/en-us/dotnet/api/system.xml.xmlreader?view=net-8.0
 
 # CHATGPT:
 
@@ -58,7 +58,7 @@ namespace AC2
 }
 Este código cargará los datos XML del archivo especificado, luego seleccionará las comarcas y sus consumos por capita, los ordenará en orden descendente según el consumo por capita y tomará los primeros 10 elementos de la lista resultante. Finalmente, imprimirá las 10 primeras comarcas junto con su consumo per capita.
 
-## Solución 2 
+## Solución 2 
 
 Prompt: como usar predicate en c#
 
